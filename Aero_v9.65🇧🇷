@@ -1,23 +1,30 @@
 {
- "version":"9.65",
- "title":"🚨 Atualização anti-banimento 🚨",
- "description":"✔Aero WhatsApp V9.63
+ "version":"9.66",
+ "title":"🚨 Atualização Disponível 🚨",
+ "description":"✔Aero WhatsApp V9.72🇧🇷
 
-Base: 2.23 1.76
+Base: 2.23.9.75
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
- ➖ O que há de novo em 9.63? 
+ ➖ O que há de novo em 9.72? 
 
-✅ Correção da tradução
+🍃 [Adicionado] Opção de backup/restauração de mídia (fotos, vídeos, GIFs, documentos, áudios, status).
 
-🛡 Adicionado mais proteção antibanimento 🛡
+🍃 [Adicionado] Envio de documentos, mídia e áudio com tamanho superior a 100MB.
 
-✅ Correção do problema de banimento de 1 hora para alguns usuários 🕐
+🍃️ [Adicionado] Pacote de emojis iOS 2023 (Privilégios Aero 》 Configurações 》 Aparência).
 
+☑️ [Ativado] Receber mensagens fixadas de outras pessoas.
 
-🔘 Ativada a opção de editar as mensagens enviadas✏️
+☑️ [Ativado] Fixar mensagem em chats privados.
+
+☑️ [Ativado] Recurso de edição de mensagem.
+
+☑️ [Ativado] Transferir chats entre telefones sem o Google Drive (Configurações do WhatsApp 》 Conversas 》 Transferir conversas).
+
+☑️ [Ativado] Foto do perfil dos membros do grupo no chat (oficial do WhatsApp).
 
 ❤ E muito mais recursos e melhorias!.",
-"download":"https://youtu.be/nqL0p6z1HwE"
+"download":"https://youtu.be/zRtFbFfZUe4"
 }
