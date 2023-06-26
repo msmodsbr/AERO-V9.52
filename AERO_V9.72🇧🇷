@@ -1,6 +1,30 @@
 {
- "version":"9.72",
- "title":"Atualização disponível 🛠️",
- "description":"Uma nova atualização está disponível e incluí novos emojis, opção para salvar imagens e/ou vídeos que só poderiam ser vistos uma única vez, possibilidade de filtrar apenas as mensagens envidas por um determinado contato em um grupo e outros recursos.",
-"download":"https://youtu.be/ef3VRecJa44"
+ "version":"9.73",
+ "title":"🚨 Atualização Disponível 🚨",
+ "description":"✔Aero WhatsApp V9.72🇧🇷
+
+Base: 2.23.9.75
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+ ➖ O que há de novo em 9.72? 
+
+🍃 [Adicionado] Opção de backup/restauração de mídia (fotos, vídeos, GIFs, documentos, áudios, status).
+
+🍃 [Adicionado] Envio de documentos, mídia e áudio com tamanho superior a 100MB.
+
+🍃️ [Adicionado] Pacote de emojis iOS 2023 (Privilégios Aero 》 Configurações 》 Aparência).
+
+☑️ [Ativado] Receber mensagens fixadas de outras pessoas.
+
+☑️ [Ativado] Fixar mensagem em chats privados.
+
+☑️ [Ativado] Recurso de edição de mensagem.
+
+☑️ [Ativado] Transferir chats entre telefones sem o Google Drive (Configurações do WhatsApp 》 Conversas 》 Transferir conversas).
+
+☑️ [Ativado] Foto do perfil dos membros do grupo no chat (oficial do WhatsApp).
+
+❤ E muito mais recursos e melhorias!.",
+"download":"https://youtu.be/nqL0p6z1HwE"
 }
