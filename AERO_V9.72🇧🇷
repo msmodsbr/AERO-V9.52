@@ -1,29 +1,20 @@
 {
- "version":"9.73",
- "title":"🚨 Atualização Disponível 🚨",
- "description":"✔Aero WhatsApp V9.72F🇧🇷
+ "version":"9.74",
+ "title":"🚨 Nova Atualização 🚨",
+ "description":"✔Aero WhatsApp V9.73F 🇧🇷
 
-Base: 2.23.9.75
+📆 12-7-2023
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+🟡 Atualização básica: 2.23.9.75
 
- ➖ O que há de novo em 9.72F? 
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-🍃 [Adicionado] Opção de backup/restauração de mídia (fotos, vídeos, GIFs, documentos, áudios, status).
+ ➖ O que há de novo em 9.73 🔧
 
-🍃 [Adicionado] Envio de documentos, mídia e áudio com tamanho superior a 100MB.
 
-🍃️ [Adicionado] Pacote de emojis iOS 2023 (Privilégios Aero 》 Configurações 》 Aparência).
+🔧 [Correção] Enviar problemas de localização 📍🗺
 
-☑️ [Ativado] Receber mensagens fixadas de outras pessoas.
-
-☑️ [Ativado] Fixar mensagem em chats privados.
-
-☑️ [Ativado] Recurso de edição de mensagem.
-
-☑️ [Ativado] Transferir chats entre telefones sem o Google Drive (Configurações do WhatsApp 》 Conversas 》 Transferir conversas).
-
-☑️ [Ativado] Foto do perfil dos membros do grupo no chat (oficial do WhatsApp).
+🔧 [Correção] Meu botão de localização no mapa📍
 
 ❤ E muito mais recursos e melhorias!.",
 "download":"https://youtu.be/zRtFbFfZUe4"
